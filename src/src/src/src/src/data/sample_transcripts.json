@@ -1,0 +1,14 @@
+[
+  {
+    "id": "MEETING_2026_001",
+    "text": "Sarah from Frontend mentioned that the UI dashboard is blocked by the Auth Migration project. David from the Security Team needs to complete the OAuth2 token validation by Friday. Let's assign task TASK_101 to David for completing token validation. Sarah will take TASK_102 to integrate the login spinner once David is done."
+  },
+  {
+    "id": "MEETING_2026_002",
+    "text": "During the DevOps sync, Alex reported that the AWS cluster migration is causing high latency. We need the Infrastructure Team to provision 4 new EC2 instances. Assign TASK_103 to Alex to monitor the load balancer. This task depends on the AWS cluster migration project being stabilized by next Tuesday."
+  },
+  {
+    "id": "MEETING_2026_003",
+    "text": "Product team review: Elena wants to launch the AI search feature by Q3. The Backend Team is assigned to TASK_104 to build the vector indexing pipeline using Groq. This directly impacts the Marketing Team's launch campaign. Deadline is set for end of month."
+  }
+]
